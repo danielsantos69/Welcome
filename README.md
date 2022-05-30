@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielsantos69
-- 👀 I’m interested in design circuits and programation 
+- 👀 I’m interested in design circuits and programming
 - 🌱 I’m currently learning React
 
 <!---
